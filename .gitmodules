@@ -1,0 +1,3 @@
+[submodule "vendor/speak-js"]
+	path = vendor/speak-js
+	url = https://github.com/mattytemple/speak-js
